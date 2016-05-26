@@ -9,17 +9,17 @@ public class CirculoTest {
 	
 	@Test
 	public void crearUnCirculoConRadio2() {
-		fail("Not yet implemented");
+		
 	}
 	
 	@Test
 	public void crearUnCirculoConRadio3Punto7() {
-		fail("Not yet implemented");
+		
 	}
 	
 	@Test
 	public void crearUnCirculoConRadio5() {
-		fail("Not yet implemented");
+		
 	}
 	
 	@Test
